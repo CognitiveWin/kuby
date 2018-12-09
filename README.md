@@ -16,6 +16,8 @@ kubectl get services
 
 ## References
 
+https://developer.ibm.com/patterns/deploy-a-react-application-on-kubernetes/
+
 https://matthewpalmer.net/kubernetes-app-developer/articles/guide-install-kubernetes-mac.html
 https://docs.docker.com/docker-for-mac/#kubernetes
 https://rominirani.com/tutorial-getting-started-with-kubernetes-with-docker-on-mac-7f58467203fd
