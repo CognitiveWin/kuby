@@ -20,3 +20,4 @@
 - https://docs.docker.com/docker-for-mac/#kubernetes
 - https://rominirani.com/tutorial-getting-started-with-kubernetes-with-docker-on-mac-7f58467203fd
 - https://medium.com/@thms.hmm/docker-for-mac-with-kubernetes-enable-k8s-dashboard-62fe036b7480
+- https://www.xoriant.com/blog/cloud-infrastructure/introduction-kubernetes-building-blocks.html
